@@ -16,10 +16,9 @@ enableMissingTranslationPlaceholders = false
 
 
 [params]
-dynsite00 = "https://ww2.jjj123.com"
-dynsite01 = "https://64.jjj123.com"
-dynsite02 = "https://news.jjj123.com"
-dynsite03 = "https://tbq.jjj123.com"
+topsite00 = "https://ww2.jjj123.com"
+seqsite01 = "https://64.jjj123.com"
+ytsite01 = ""
 editURL = ""
 showVisitedLinks = true # default is false
 ## themeStyle = "flex" # "original" or "flex" # default "flex"
