@@ -16,8 +16,8 @@ enableMissingTranslationPlaceholders = false
 
 
 [params]
-topsite00 = "https://ww2.jjj123.com"
-seqsite01 = "https://64.jjj123.com"
+topsite00 = "https://www.jjj123.com"
+seqsite01 = "https://ww2.jjj123.com"
 ytsite01 = ""
 editURL = ""
 showVisitedLinks = true # default is false
