@@ -14,3 +14,8 @@ weight = 20
 
 * [ 20001 秦偉平  ]({{< relref "qwp" >}})
 
+{{< myjpg 
+jpg="xp.jpg"
+text="從未有過選票"
+link="www.jjj123.com" 
+>}}
